@@ -1,4 +1,4 @@
-package com.photoview;
+package com.photo;
 
 import android.view.MotionEvent;
 import android.widget.ImageView;

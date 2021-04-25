@@ -1,4 +1,4 @@
-package com.photoview;
+package com.photo;
 
 /**
  * Interface definition for a callback to be invoked when the photo is experiencing a drag event
